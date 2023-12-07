@@ -19,12 +19,29 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/github/followers/veroyols?label=follow&style=social" height="22" title="Follow me" />](https://github.com/veroyols) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vero.scholz@gmail.com)
 
-
 - 🌱 I’m currently learning 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 - 💬 Ask me about programming in general, I am always available to help and learn together.
+
+<details>
+<summary>Projects</summary>
+  
+  <!---
+  | Command | Description |
+| --- | --- |
+| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
+| ... | ... |
+  --->
+  
+| Project | Tags |
+| --- | --- |
+| [Project](https://github.com/project) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+
+</details>  
+
+----
