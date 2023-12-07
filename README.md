@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about programming in general, I am always available to help and learn together.
 
+**Talking about Education/Skills:**
+
+- 🎓 Estudent since 2019 (UNAJ)
 <details>
 <summary>Projects</summary>
   
@@ -40,7 +43,7 @@ Here are some ideas to get you started:
   
 | Project | Tags |
 | --- | --- |
-| [Project](https://github.com/project) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [menu restaurant](https://veroyols.github.io/TP3_restaurant/) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow">
 
 </details>  
 
