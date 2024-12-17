@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 | 💡 [Metodologia de la programacion - Patrones](https://github.com/veroyols/I3007_patrones_de_disenio)| <img src="https://img.shields.io/badge/.NET-blue"> <img src="https://img.shields.io/badge/C%23-green"> |
 | 🐾 [MascotasApp](https://github.com/margaritaEnterprise/MascotasApp) | <img src="https://img.shields.io/badge/Android Studio-green"> <img src="https://img.shields.io/badge/Java-red">|
 | 🏳️‍🌈 [App-mobile-web: Banderas del Mundo](https://github.com/margaritaEnterprise/app-Mobile-Web) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow"> |
+| 🏚️ [Automatizacion del hogar](https://github.com/team-bestia/TPF_lab/tree/main) | <img src="https://img.shields.io/badge/Proteus-green"> <img src="https://img.shields.io/badge/Arduino-black"> <img src="https://img.shields.io/badge/C-blue"> |
 | 🏥 [Simulacion](https://github.com/veroyols/netlogo) | <img src="https://img.shields.io/badge/NetLogo-orange"> |
-
 ----
