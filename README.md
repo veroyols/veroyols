@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 | 📊 [Métricas de MR](https://github.com/veroyols/metricas) | <img src="https://img.shields.io/badge/Python-blue"> <img src="https://img.shields.io/badge/Requests-orange"> <img src="https://img.shields.io/badge/JSON-green"> |
 | 🏥 [Simulacion](https://github.com/veroyols/netlogo) | <img src="https://img.shields.io/badge/NetLogo-orange"> |
 | 🐍 [Juego Snake](https://github.com/veroyols/snake) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow"> |
-
+| 💡 [Metodologia de la programacion - Patrones](https://github.com/veroyols/I3007_patrones_de_disenio)| <img src="https://img.shields.io/badge/.NET-blue"> <img src="https://img.shields.io/badge/C%23-green"> |
+| 🐾 [MascotasApp](https://github.com/margaritaEnterprise/MascotasApp) | <img src="https://img.shields.io/badge/Android Studio-green"> <img src="https://img.shields.io/badge/Java-red">|
 ----
