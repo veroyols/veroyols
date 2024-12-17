@@ -31,20 +31,17 @@ Here are some ideas to get you started:
 **Talking about Education/Skills:**
 
 - 🎓 Estudent since 2019 (UNAJ)
-<details>
-<summary>Projects</summary>
-  
-  <!---
-  | Command | Description |
-| --- | --- |
-| [Vectors of Locally Aggregated Concepts](https://github.com/MaartenGr/VLAC) | <img src="https://img.shields.io/badge/-NLP-red"> <img src="https://img.shields.io/badge/-Python-blue">|
-| ... | ... |
-  --->
-  
-| Project | Tags |
-| --- | --- |
-| [menu restaurant](https://veroyols.github.io/TP3_restaurant/) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow">
+### Projects
 
-</details>  
+| Project                            | Tags  |
+| ----------------------------------- | ----- |
+| 🧬 [Analisis Genómico - Bioconductor](https://github.com/veroyols/bioconductor) | <img src="https://img.shields.io/badge/Docker-blue"> <img src="https://img.shields.io/badge/R-green"> |
+| 🖼️ [Menú Restaurant - Parte 3 - Frontend](https://veroyols.github.io/TP3_restaurant/) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow"> |
+| 🚀 [Menú Restaurant - Parte 2 - API](https://github.com/veroyols/api_restaurant) | <img src="https://img.shields.io/badge/.NET-blue"> <img src="https://img.shields.io/badge/C%23-green"> <img src="https://img.shields.io/badge/SQLServer-red"> |
+| 🚧 [Menú Restaurant - Parte 1 - ORM](https://github.com/veroyols/TP1-ORM-Scholz_Veronica) | <img src="https://img.shields.io/badge/Entity_Framework_Core-blue"> <img src="https://img.shields.io/badge/C%23-yellow"> |
+| 🎯 [Music Recognizer - MR](https://github.com/veroyols/music-recognizer) | <img src="https://img.shields.io/badge/React_Native-blue"> <img src="https://img.shields.io/badge/JavaScript-yellow"> <img src="https://img.shields.io/badge/ACRCloud-green"> |
+| 📊 [Métricas de MR](https://github.com/veroyols/metricas) | <img src="https://img.shields.io/badge/Python-blue"> <img src="https://img.shields.io/badge/Requests-orange"> <img src="https://img.shields.io/badge/JSON-green"> |
+| 🏥 [Simulacion](https://github.com/veroyols/netlogo) | <img src="https://img.shields.io/badge/NetLogo-orange"> |
+| 🐍 [Juego Snake](https://github.com/veroyols/snake) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow"> |
 
 ----
