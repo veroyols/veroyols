@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 
 | Project                            | Tags  |
 | ----------------------------------- | ----- |
-| 💻 [Bioconductor Frontend](https://github.com/veroyols/bioc_front) | <img src="https://img.shields.io/badge/React-blue"> <img src="https://img.shields.io/badge/JS-yellow"> |
-| 📡 [Bioconductor Backend](https://github.com/veroyols/bioc_back) | <img src="https://img.shields.io/badge/.NET-blue"> <img src="https://img.shields.io/badge/C%23-green"> |
-| 🧬 [Bioconductor Docker Environment](https://github.com/veroyols/bioconductor) | <img src="https://img.shields.io/badge/Docker-blue"> <img src="https://img.shields.io/badge/R-red"> |
+| 💻 [vitamina-d](https://github.com/vitamina-d) | <img src="https://img.shields.io/badge/Docker-blue"> <img src="https://img.shields.io/badge/.NET-violet"> <img src="https://img.shields.io/badge/blast-black"> <img src="https://img.shields.io/badge/R-blue"> <img src="https://img.shields.io/badge/Python-green"> <img src="https://img.shields.io/badge/React-blue"> <img src="https://img.shields.io/badge/TSX-blue"> 
 | 🖼️ [Menú Restaurant - Parte 3 - Frontend](https://veroyols.github.io/TP3_restaurant/) | <img src="https://img.shields.io/badge/HTML-blue"> <img src="https://img.shields.io/badge/CSS-red"> <img src="https://img.shields.io/badge/JS-yellow"> |
 | 🚀 [Menú Restaurant - Parte 2 - API](https://github.com/veroyols/api_restaurant) | <img src="https://img.shields.io/badge/.NET-blue"> <img src="https://img.shields.io/badge/C%23-green"> <img src="https://img.shields.io/badge/SQLServer-red"> |
 | 🚧 [Menú Restaurant - Parte 1 - ORM](https://github.com/veroyols/TP1-ORM-Scholz_Veronica) | <img src="https://img.shields.io/badge/Entity_Framework_Core-blue"> <img src="https://img.shields.io/badge/C%23-yellow"> |
