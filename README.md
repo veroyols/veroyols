@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-- 🎓 ![UNAJ](https://img.shields.io/badge/UNAJ-Graduada-005596?style=flat-square) <img src="https://raw.githubusercontent.com/vitamina-d/bioc_front/main/src/assets/logo.png" height="20"> (2019-2025)
+- 🎓 ![UNAJ](https://img.shields.io/badge/UNAJ-2019_2025-005596?style=flat-square) <img src="https://raw.githubusercontent.com/vitamina-d/bioc_front/main/src/assets/logo.png" height="20"> 
   
 | Projects | Tags |
 | :--- | :--- |
